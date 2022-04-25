@@ -14,7 +14,7 @@ ms.author: kengaderdus
 ms.subservice: B2C
 ---
 
-# StringCollection claims transformations
+# StringCollection claims transformationsvxczvcxzcx\zx
 
 This article provides examples for using the string collection claims transformations of the Identity Experience Framework  schema in Azure Active Directory B2C (Azure AD B2C). For more information, see [claims transformations](claimstransformations.md).
 
